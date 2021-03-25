@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @141312q
+- 👋 Hi, I’m Yogesh Kumar Kashyap
 - 👀 I’m interested in .AI ML based model
 - 🌱 I’m currently learning ...resnet152
 - 💞️ I’m looking to collaborate on ...Imageprocessing models
